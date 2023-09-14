@@ -2,27 +2,25 @@ html,
 	body
 		{
 		font-family: Arial, sans-serif;
-		margin: 0%;
-		margin top: 18px;
-		background-color: #85E6C5;
+		margin: 0;
 		}
 	header
 		{
-		background-color: #85E6C5;
+		background-color: #55BCFE;
 		padding:40px;
-		text-align: center;	
+		text-align: center;
 		}
 	h1
 		{
-		font-family: utonium;
+		font-family: Comic-Sans-MS;
 		font-size: 90px;
-		color: black;
+		color: white;
 		}
 	header img
 		{
-		border-radius: 100px;
- 		width: 500px;
- 		border: 8px solid #050505;
+		border-radius: 174px;
+ 		width: 300px;
+ 		border: 8px solid #FFFFFF;
 		}
 		.content
 		{
@@ -30,11 +28,9 @@ html,
 		margin: 0 auto;
 		padding: 0 20px;
 		}
-	img
+	img.big-image
 		{
-		display: block; margin: auto;
 		max-width: 100%;
-		
 		}
 		p.caption
 		{
@@ -57,7 +53,7 @@ html,
 		{
 		margin-top: 20px;
 		padding: 40px 20px;
-		background-color: #26E5E3;
+		background-color: #E6E6E6;
 		}
 	footer ul
 		{
